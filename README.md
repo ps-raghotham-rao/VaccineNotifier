@@ -1,4 +1,4 @@
-# VaccineNotifier
+# Vaccine Notifier
 A telegram group for instant vaccine notifications when available in Bangalore for the age group 18+ and 45+
 
 Telegram group for age 45+: https://t.me/blrvaccinenotifier45
